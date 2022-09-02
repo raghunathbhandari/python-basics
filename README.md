@@ -1,9 +1,16 @@
 
-#Python Programming Basics
+# Python Programming Basics
 
+A Brief example for:
+- Variable
+- Data Type
+- List
+- Array
+- Functions
+- Class
+- 
 
-
-##Python Variables Example -1 
+## Python Variables Example -1 
 Python has no command for declaring a variable.A variable is created the moment you first assign a value to it.
  
 
