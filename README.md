@@ -1,10 +1,8 @@
-# python-basics
-basics 
 
 
-##Python Variables Example -1 
-# Python has no command for declaring a variable.A variable is created the moment you first assign a value to it.
-## 
+#Python Variables Example -1 
+Python has no command for declaring a variable.A variable is created the moment you first assign a value to it.
+ 
 
 
 ``
@@ -18,14 +16,15 @@ b="Raghu"
 # print(b[-1])
 
 ``
-##Python Variables Example -2  Variable type can even change type after they have been set.
+
+#Python Variables Example -2  Variable type can even change type after they have been set.
 
 ``
 x = 5       
 x = "Raghu"
 
 
-## It supports Camel Case, Pascal Case, Snake Case
+# It supports Camel Case, Pascal Case, Snake Case
 firstVar=99
 SecondVar="test"
 third_var =20.22
@@ -33,7 +32,7 @@ third_var =20.22
 ``
 
 # List:
-# Lists are used to store multiple items in a single variable.
+Lists are used to store multiple items in a single variable.
 
 ``
 first_list = ["apple", "banana", "orange"]
@@ -70,6 +69,7 @@ for x in first_list:
 
 
 # While Loop
+
 i = 0
 while i < len(first_list):
   print(first_list[i])
@@ -78,16 +78,16 @@ while i < len(first_list):
 ``
 
 
+# Data Type:
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType
 
-# Text Type:	str
-# Numeric Types:	int, float, complex
-# Sequence Types:	list, tuple, range
-# Mapping Type:	dict
-# Set Types:	set, frozenset
-# Boolean Type:	bool
-# Binary Types:	bytes, bytearray, memoryview
-# None Type:	NoneType
-#
 
 
 ``
@@ -103,7 +103,7 @@ z = 1j    # complex
 
 
 # Tuple
-# Tuples are used to store multiple items in a single variable.
+Tuples are used to store multiple items in a single variable.
 
 
 var_tup = ("apple", "banana", "cherry")
@@ -112,14 +112,14 @@ print(var_tup)
 
 
 # Dictionary:
-# Dictionaries are used to store data values in key:value pairs.
-# A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+Dictionaries are used to store data values in key:value pairs.
+A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
 
 
 
 
 # Set
-# Sets are used to store multiple items in a single variable.
+Sets are used to store multiple items in a single variable.
 
 ``
 var1_set = {"apple", "banana", "cherry"}
@@ -201,7 +201,7 @@ print(varDictFamily)
 
 
 # Python Conditions and If .. Eleif statements
-# Python supports the usual logical conditions from mathematics:
+Python supports the usual logical conditions from mathematics:
 
 ``
 a = 200
@@ -216,7 +216,7 @@ else:
 
 
 # Python Array?
-# An array is a special variable, which can hold more than one value at a time.
+An array is a special variable, which can hold more than one value at a time.
 
 ``
 var_array1 = ["Ford", "Volvo", "BMW"]
