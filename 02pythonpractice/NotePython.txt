@@ -1,0 +1,24 @@
+Calsses - Template
+
+OOPS (Object Oriented Programmings)
+
+D = Do Not
+R = Repeat
+Y = Yourself
+
+
+Class = Design
+Oject = Instance
+
+Attributes = > Variables
+Behaviour = > Methods
+
+
+> Python is functional Programmings
+> Every Object has certain behaviour and 
+> Object can store data and behaviour
+> Methods are functions 
+> 
+
+
+
