@@ -7,8 +7,15 @@ A Brief example for:
 - List
 - Array
 - Functions
+- Lamdafunction
 - Class
-- 
+- Object Oriented Programming (OOPS)
+- Inheritance (Multi level, multiple, single)
+- Constructor
+- Interfaces
+- Fucntion, Operator and Method Overloading
+- Static Type
+
 
 ## Python Variables Example -1 
 Python has no command for declaring a variable.A variable is created the moment you first assign a value to it.
