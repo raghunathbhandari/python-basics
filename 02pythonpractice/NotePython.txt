@@ -22,3 +22,12 @@ Behaviour = > Methods
 
 
 
+
+Namespace: Namespace is an area where you create and store object/variable
+- Class namespace
+- Object/Instance namespace
+
+Class Variable : Class level scope (enginetype)
+Instance Variable: Method level scope (mil, compname)
+
+
